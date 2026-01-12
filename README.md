@@ -1,10 +1,8 @@
 # Curso Prático de LangChain 🦜🔗
 
-Este repositório contém 10 notebooks Jupyter com exemplos práticos de como usar o LangChain para criar aplicações com LLMs. O curso foi desenhado para ser executado no **Google Colab**.
+Este repositório contém **20 notebooks Jupyter** com exemplos práticos de como usar o LangChain, divididos em um módulo fundamental e um **módulo focado em Auditoria**. O curso foi desenhado para ser executado no **Google Colab**.
 
-## Conteúdo
-
-Os notebooks estão organizados de forma progressiva, do básico ao avançado:
+## Módulo 1: Fundamentos
 
 1.  **[01_Introducao_LangChain_Modelos.ipynb](./01_Introducao_LangChain_Modelos.ipynb)**: Introdução, instalação e chamadas básicas a ChatModels.
 2.  **[02_Prompt_Templates_Parsers.ipynb](./02_Prompt_Templates_Parsers.ipynb)**: Criação de Templates de Prompt e Formatação de Saída (LCEL).
@@ -17,17 +15,27 @@ Os notebooks estão organizados de forma progressiva, do básico ao avançado:
 9.  **[09_Agentes_Tools_Custom.ipynb](./09_Agentes_Tools_Custom.ipynb)**: Criando suas próprias ferramentas (Tools) em Python.
 10. **[10_Chatbot_RAG_Completo.ipynb](./10_Chatbot_RAG_Completo.ipynb)**: **Projeto Final** - Chatbot que interage com arquivos PDF (ChatPDF).
 
+## Módulo 2: Casos de Uso em Auditoria 🕵️‍♂️📋
+
+Este módulo foca na aplicação de IA Generativa para rotinas de Auditores, Analistas de Risco e Compliance.
+
+11. **[11_Auditoria_Analise_Conformidade.ipynb](./11_Auditoria_Analise_Conformidade.ipynb)**: Verificação automática de regras em despesas e transações.
+12. **[12_Auditoria_Extracao_Dados_Contratos.ipynb](./12_Auditoria_Extracao_Dados_Contratos.ipynb)**: Extração de dados estruturados (JSON) de textos jurídicos.
+13. **[13_Auditoria_Resumo_Relatorios.ipynb](./13_Auditoria_Resumo_Relatorios.ipynb)**: Sumarização de relatórios longos focada em riscos.
+14. **[14_Auditoria_Classificacao_Riscos.ipynb](./14_Auditoria_Classificacao_Riscos.ipynb)**: Classificação automática de apontamentos (Alto/Médio/Baixo).
+15. **[15_Auditoria_RAG_Legislacao.ipynb](./15_Auditoria_RAG_Legislacao.ipynb)**: Chatbot especialista em legislação específica (ex: Lei das Estatais).
+16. **[16_Auditoria_Comparacao_Normas.ipynb](./16_Auditoria_Comparacao_Normas.ipynb)**: Diff semântico entre duas versões de normas internas.
+17. **[17_Auditoria_Geracao_Checklists.ipynb](./17_Auditoria_Geracao_Checklists.ipynb)**: Geração de programas de trabalho baseados na descrição do processo.
+18. **[18_Auditoria_Escrita_Achados.ipynb](./18_Auditoria_Escrita_Achados.ipynb)**: Reformatação de achados no padrão "5 Cs" (Condition, Criteria, etc).
+19. **[19_Auditoria_Deteccao_Anomalias.ipynb](./19_Auditoria_Deteccao_Anomalias.ipynb)**: Detecção de fraude e pressão em e-mails corporativos.
+20. **[20_Auditoria_Agente_Investigativo.ipynb](./20_Auditoria_Agente_Investigativo.ipynb)**: Agente autônomo para investigação de fornecedores e compliance.
+
 ## Como Usar
 
 1.  Abra o arquivo `.ipynb` desejado.
 2.  Clique no botão "Open in Colab" (se disponível) ou faça upload para o seu Google Drive/Colab.
 3.  Você precisará de uma **OpenAI API Key**.
 4.  Execute as células sequencialmente.
-
-## Pré-requisitos
-
-- Conta no Google (para usar o Colab).
-- Chave de API da OpenAI (paga) ou adaptação para outros modelos (Gemini/Google GenAI, HuggingFace, etc).
 
 ## Tecnologias
 
