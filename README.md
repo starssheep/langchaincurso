@@ -28,7 +28,16 @@ Este módulo foca na aplicação de IA Generativa para rotinas de Auditores, Ana
 17. **[17_Auditoria_Geracao_Checklists.ipynb](./17_Auditoria_Geracao_Checklists.ipynb)**: Geração de programas de trabalho baseados na descrição do processo.
 18. **[18_Auditoria_Escrita_Achados.ipynb](./18_Auditoria_Escrita_Achados.ipynb)**: Reformatação de achados no padrão "5 Cs" (Condition, Criteria, etc).
 19. **[19_Auditoria_Deteccao_Anomalias.ipynb](./19_Auditoria_Deteccao_Anomalias.ipynb)**: Detecção de fraude e pressão em e-mails corporativos.
-20. **[20_Auditoria_Agente_Investigativo.ipynb](./20_Auditoria_Agente_Investigativo.ipynb)**: Agente autônomo para investigação de fornecedores e compliance.
+
+## Módulo 3: Avançado - Pydantic e LangGraph 🤖🕸️
+
+Este módulo explora técnicas modernas de engenharia de software para IA, focando em robustez e agentes complexos.
+
+21. **[21_Pydantic_Fundamentos.ipynb](./21_Pydantic_Fundamentos.ipynb)**: Fundamentos de validação de dados em Python.
+22. **[22_LangChain_Structured_Output_Pydantic.ipynb](./22_LangChain_Structured_Output_Pydantic.ipynb)**: Garantindo saídas JSON válidas com modelos de linguagem.
+23. **[23_LangGraph_Intro_Fluxos_Ciclicos.ipynb](./23_LangGraph_Intro_Fluxos_Ciclicos.ipynb)**: Introdução a grafos e loops de feedback (não-linear).
+24. **[24_LangGraph_Human_In_The_Loop.ipynb](./24_LangGraph_Human_In_The_Loop.ipynb)**: Pausando a execução para aprovação humana segura.
+25. **[25_LangGraph_Multi_Agent_Supervisor.ipynb](./25_LangGraph_Multi_Agent_Supervisor.ipynb)**: Arquitetura de Supervisor orquestrando múltiplos agentes especialistas.
 
 ## Como Usar
 
