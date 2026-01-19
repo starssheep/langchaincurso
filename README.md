@@ -2,6 +2,8 @@
 
 Este repositório contém **20 notebooks Jupyter** com exemplos práticos de como usar o LangChain, divididos em um módulo fundamental e um **módulo focado em Auditoria**. O curso foi desenhado para ser executado no **Google Colab**.
 
+🎨 **[Acesse a Apresentação do Curso (Canva)](https://www.canva.com/design/DAG91TtMVPQ/xYaS5u5TaYFVlYeIYsATUw/edit?utm_content=DAG91TtMVPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 ## Módulo 1: Fundamentos
 
 1.  **[01_Introducao_LangChain_Modelos.ipynb](./01_Introducao_LangChain_Modelos.ipynb)**: Introdução, instalação e chamadas básicas a ChatModels.
