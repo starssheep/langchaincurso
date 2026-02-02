@@ -54,16 +54,6 @@ Um sistema multi-agente completo (Supervisor + Especialistas) integrado com uma 
 python3 -m streamlit run skyflow_airline/app.py
 ```
 
-## 🖼️ Estudo de Caso: Gerador de Slides IA
-
-Sistema que gera conteúdo de slides e imagens com texto integrado usando o modelo Imagen do Gemini 2.0.
-
-- **Destaque**: Uso hardcoded do modelo `gemini-2.0-flash-exp-image-generation` para renderização correta de texto.
-- **Interface**: [slide_system/app.py](file:///Users/naubergois/langchaincurso/slide_system/app.py)
-- **Como rodar**:
-```bash
-python3 -m streamlit run slide_system/app.py
-```
 
 ## 🛠️ Automações Realizadas
 
