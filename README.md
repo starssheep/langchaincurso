@@ -41,6 +41,25 @@ Acesse os notebooks diretamente no Google Colab para execução imediata na nuve
 | 29. n8n: Webhook Client | [🚀 Abrir no Colab](https://colab.research.google.com/drive/12KLDSxeVbKVUSzUE4eRxV1hQ11Iz0vvW) |
 | 30. n8n: Python Node Prototyping | [🚀 Abrir no Colab](https://colab.research.google.com/drive/1Fv12u76oU1RViKmEkW86PuviYDqELQrB) |
 
+
+## 👶 LangChain para Crianças
+
+Uma versão simplificada e didática dos notebooks, ideal para iniciantes ou para ensino.
+
+| Nome do Notebook | Caminho |
+| :--- | :--- |
+| **Pasta Completa** | [`kids_course/`](kids_course/) |
+| 01. Introdução | [`kids_course/CRIANCAS_01_Introducao_LangChain_Modelos.ipynb`](kids_course/CRIANCAS_01_Introducao_LangChain_Modelos.ipynb) |
+| ... e todos os outros módulos adaptados! |
+
+## 📚 Ebook do Curso
+
+Um livro digital completo (EPUB) foi gerado automaticamente a partir destes notebooks, contendo todas as explicações teóricas e exemplos de código.
+
+- **Arquivo**: [`LangChain_Course.epub`](LangChain_Course.epub)
+- **Conteúdo**: Explicação detalhada de cada exercício.
+- **Como ler**: Use qualquer leitor de EPUB (Apple Books, Calibre, Google Play Books).
+
 ---
 
 ## ✈️ Estudo de Caso: SkyFlow Airlines
